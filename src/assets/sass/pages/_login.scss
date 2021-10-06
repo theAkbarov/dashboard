@@ -1,0 +1,66 @@
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f2f5;
+
+  &-page__top {
+    text-align: center;
+  }
+
+  &__header a {
+    display: block;
+    text-decoration: none;
+  }
+
+  &__logo {
+    height: 44px;
+    vertical-align: top;
+    margin-right: 16px;
+  }
+
+  &__title {
+    font-size: 33px;
+    /* color: @heading-color; */
+    /* font-family: Avenir, 'Helvetica Neue', Arial, Helvetica, sans-serif; */
+    font-weight: 600;
+    position: relative;
+    top: 2px;
+  }
+
+  &__desc {
+    /* font-size: @font-size-base; */
+    /* color: @text-color-secondary; */
+    margin-top: 12px;
+    margin-bottom: 40px;
+  }
+}
+
+
+.login-form {
+  min-width: 300px;
+
+  &-forgot {
+    float: right;
+  }
+
+  &-button {
+    width: 100%;
+  }
+
+}
+
+.editor {
+  padding: 0 0 5rem;
+  //background-color: #fff;
+  border: 1px solid #eee;
+
+  &__wrapper {
+    height: 25rem;
+    width: 100%;
+
+  }
+}
+

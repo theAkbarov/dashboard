@@ -1,0 +1,35 @@
+@import "../abstracts/variables";
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 10px;
+}
+body {
+  //font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+
+  .error-text {
+      color: $color-red;
+  }
+
+  .logo-container {
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #eee;
+    font-size: 1.8rem;
+  }
+
+  .logout {
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "global": {
+    "project_title": "",
+    "project_subtitle": "Администратор",
+    "admin": "Администратор",
+    "welcome": "Добро пожаловать в админ панель"
+  },
+  "sidebar": {
+    "regions": "Регионы",
+    "sportsmen": "Спортсмены",
+    "infographics": "Инфографика",
+    "faq": "F.A.Q",
+    "dictionaries": "Словари",
+    "constructions": "Сооружения",
+    "categories": "Категории",
+    "feedback": "Обратный отзыв",
+    "sport_club": "Спортивный Клуб",
+    "facilities": "Сооружения",
+    "dictionary": "Словарь",
+    "parental_faq": "Родительский FAQ",
+    "parental_info": "Родительская инфографика",
+    "users": "Пользователи",
+    "about_us": "О нас",
+    "banner": "Баннер",
+    "tips": "Советы",
+    "games": "Игры",
+    "videoblog": "Видеоблог",
+    "applications": "Заявки"
+  },
+  "categories": {
+    "sport": "Спорт",
+    "videoblog": "Видеоблог",
+    "facility": "Сооружение",
+    "parental_faq": "Родительский FAQ",
+    "parental_info": "Родительская инфографика",
+    "auth_users": "Авторизованные пользователи",
+    "anon_users": "Анонимные пользователи"
+  },
+  "status": {
+    "completed": "Завершено",
+    "active": "Активен",
+    "pending": "В ожидании",
+    "approved": "Утверждено",
+    "denied": "Отказано"
+  },
+  "action": {
+    "action": "Действие",
+    "actions": "Действия",
+    "add": "Добавить",
+    "create": "Создать",
+    "new": "Новый",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "mark": "Отметить как завершенное"
+  },
+  "question": {
+    "deleting": "Вы уверены, что хотите удалить элемент?"
+  },
+  "notification": {
+    "success": {
+      "general": "Успешно",
+      "create": "Элемент успешно создан",
+      "update": "Элемент успешно обновлен",
+      "delete": "Элемент успешно удалён"
+    },
+    "error": {
+      "general": "Произошла ошибка"
+    }
+  },
+  "form": {
+    "title": "Заголовок",
+    "description": "Описание",
+    "visibility": "Активен",
+    "active": "Активен",
+    "date": "Дата",
+    "image": "Фото",
+    "images": "Фотографии",
+    "thumbnail": "Миниатюра",
+    "icon": "Иконка",
+    "full_name": "Ф.И.О",
+    "phone_number": "Номер телефона",
+    "created_date": "Дата создания",
+    "status": "Статус",
+    "video": "Видео",
+    "profile_picture": "Фото профиля",
+    "text": "Текст",
+    "additional_images": "Фотографии",
+    "category": "Категории",
+    "age_limit": "Возрастное ограничение",
+    "club_hour": "Клубное время",
+    "capacity": "Вместимость",
+    "region": "Область",
+    "word": "Слово",
+    "question": "Вопрос",
+    "answer": "Ответ",
+    "is_staff": "Персонал",
+    "gender": "Пол",
+    "date_of_birth":  "Дата рождения",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "id": "id",
+    "address": "Адрес",
+    "taxi_route": "Маршрутные Такси",
+    "closest_subway_station": "Ближайшая станция метро",
+    "buses": "Автобусы",
+    "bus_station": "Автобусная остановка",
+    "phone": "Номер телефона",
+    "days": "Дни",
+    "working_hours_from": "Режим работы с",
+    "working_hours_to": "Режим работы по",
+    "working_days": "Рабочие дни",
+    "break_hours_from": "Время перерыва с",
+    "break_hours_to": "Время перерыва до",
+    "email": "Электронная почта",
+    "body": "Текст",
+    "expiration_time": "Время истечения",
+    "level": "Уровень",
+    "point": "Балл",
+    "is_right_answer": "Правильный ответ",
+    "game": "Игра",
+    "add_answer": "Добавить ответ",
+    "video_link": "Ссылка на видео",
+    "user": "Пользователь",
+    "date_joined": "Дата регистрации",
+    "club_hour_from": "Клубный час от",
+    "club_hour_to": "Клубный час до",
+    "child_age_from": "Возраст от",
+    "child_age_to":  "Возраст до",
+    "sport_club_title": "Название спортивного клуба",
+    "facility_title": "Название сооружения",
+    "confirmed": "Подтверждено"
+  },
+  "validation": {
+    "required": "обязательное поле",
+    "number": "требуется число",
+    "email": "требуется email",
+    "invalid_age": "неправильное число"
+  },
+  "gender": {
+    "male": "Мужчина",
+    "female": "Женщина"
+  },
+  "game": {
+    "type": {
+      "yes_no": "Yes No",
+      "figure_out": "Figure out",
+      "sport_test": "Sport Test"
+    }
+  },
+  "day": {
+    "mon": "ПН",
+    "tue": "ВТ",
+    "wed": "СР",
+    "thu": "ЧТ",
+    "fri": "ПТ",
+    "sat": "СБ",
+    "sun": "ВС"
+  },
+  "auth": {
+    "logout": "Выйти"
+  }
+}

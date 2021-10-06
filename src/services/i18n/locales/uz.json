@@ -1,0 +1,162 @@
+{
+  "global": {
+    "project_title": "",
+    "project_subtitle": "Administrator",
+    "admin": "Administrator",
+    "welcome": "Admin panel"
+  },
+  "sidebar": {
+    "regions": "Viloyatlar",
+    "sportsmen": "Sportchilar",
+    "infographics": "Infografikalar",
+    "faq": "F.A.Q",
+    "dictionaries": "Lug'atlar",
+    "constructions": "Inshootlar",
+    "categories": "Kategoriyalar",
+    "feedback": "Qayta aloqa",
+    "sport_club": "To'garak",
+    "facilities": "Inshootlar",
+    "dictionary": "Lug'at",
+    "parental_faq": "Ota-onalar FAQ",
+    "parental_info": "Ota-onalar Infografikasi",
+    "users": "Foydalanuvchilar",
+    "about_us": "Biz Haqimizda",
+    "banner": "Banner",
+    "tips": "Maslahatlar",
+    "games": "O'yinlar",
+    "videoblog": "Video Blog",
+    "applications": "Arizalar"
+  },
+  "categories": {
+    "sport": "Sport",
+    "videoblog": "Videoblog",
+    "facility": "Inshootlar",
+    "parental_faq": "Ota-onalar FAQ",
+    "parental_info": "Ota-onalar Infografikasi",
+    "auth_users": "Ro'yxatdan o'tgan foydalanuvchilar",
+    "anon_users": "Anonim foydalanuvchilar"
+  },
+  "status": {
+    "completed": "Tugallangan",
+    "active": "Aktiv",
+    "pending": "Ko‘rilmoqda",
+    "approved": "Tasdiqlangan",
+    "denied": "Rad etilgan"
+  },
+  "action": {
+    "action": "O'zgartirish",
+    "actions": "O'zgartirish",
+    "add": "Qo'shish",
+    "create": "Yaratish",
+    "new": "Yangi",
+    "save": "Saqlash",
+    "delete": "O'chirish",
+    "mark": "Tugallangan deb belgilash"
+  },
+  "question": {
+    "deleting": "Haqiqatan ham elementni o'chirishni xohlaysizmi?"
+  },
+  "notification": {
+    "success": {
+      "general": "Bajarildi",
+      "create": "Element muvaffaqiyatli yaratildi",
+      "update": "Element muvaffaqiyatli yangilandi",
+      "delete": "Element muvaffaqiyatli o‘chirildi"
+    },
+    "error": {
+      "general": "Xatolik yuz berdi"
+    }
+  },
+  "form": {
+    "title": "Sarlavha",
+    "description": "Tavsif",
+    "visibility": "Faol",
+    "active": "Faol",
+    "date": "Sana",
+    "image": "Foto",
+    "images": "Rasmlar",
+    "thumbnail": "Kichik rasm",
+    "icon": "Belgisi",
+    "full_name": "To'liq ismi sharif",
+    "phone_number": "Telefon raqami",
+    "created_date": "Yaratilgan sana",
+    "status": "Holat",
+    "video": "Video",
+    "profile_picture": "Profil rasmi",
+    "text": "Matn",
+    "additional_images": "Qo'shimcha rasmlar",
+    "category": "Kategoriyalar",
+    "age_limit": "Yosh chegarasi",
+    "club_hour": "Klub soati",
+    "capacity": "Imkoniyatlar",
+    "region": "Viloyat",
+    "word": "So'z",
+    "question": "Savol",
+    "answer": "Javob",
+    "is_staff": "Xodim",
+    "gender": "Jins",
+    "date_of_birth": "Tug'ilgan sana",
+    "first_name": "Ism",
+    "last_name": "Familiya",
+    "id": "id",
+    "address": "Manzil",
+    "taxi_route": "Taksi yo'nalishi",
+    "closest_subway_station": "Eng yaqin metro bekati",
+    "buses": "Avtobuslar",
+    "bus_station": "Avtobus bekati",
+    "phone": "Telefon raqami",
+    "days": "Kunlar",
+    "working_hours_from": "Ish boshlanish vaqti",
+    "working_hours_to": "Ish tugash vaqti",
+    "working_days": "Ish kunlari",
+    "break_hours_from": "Tanaffus boshlanish vaqti",
+    "break_hours_to": "Tanaffus tugash vaqti",
+    "email": "Elektron manzil",
+    "body": "Matn",
+    "expiration_time": "Tugash vaqti",
+    "level": "Pog'ona",
+    "point": "Ball",
+    "is_right_answer": "To'g'ri javobmi",
+    "game": "O'yin",
+    "add_answer": "Javob qo'shish",
+    "video_link": "Video havolasi",
+    "user": "Foydalanuvchi",
+    "date_joined": "Qo'shilgan sana",
+    "club_hour_from": "To'garak boshlanish vaqti",
+    "club_hour_to": "To'garak tugash vaqti",
+    "child_age_from": "Yosh (dan)",
+    "child_age_to":  "Yosh (gacha)",
+    "sport_club_title": "To'garak nomi",
+    "facility_title": "Inshoot nomi",
+    "confirmed": "Tasdiqlandi"
+  },
+  "validation": {
+    "required": "talab qilinadi",
+    "number": "raqam talab qilinadi",
+    "email": "elektron manzil talab qilinadi",
+    "invalid_age": "noto'g'ri son"
+  },
+  "gender": {
+    "male": "Erkak",
+    "female": "Ayol"
+  },
+  "game": {
+    "type": {
+      "yes_no": "Ha yoki Yo'q",
+      "figure_out": "O'ylab Toping",
+      "sport_test": "Sport Testi"
+    }
+  },
+  "day": {
+    "mon": "DU",
+    "tue": "SE",
+    "wed": "CH",
+    "thu": "PA",
+    "fri": "JU",
+    "sat": "SH",
+    "sun": "YA"
+  },
+  "auth": {
+    "logout": "Chiqish"
+  }
+}

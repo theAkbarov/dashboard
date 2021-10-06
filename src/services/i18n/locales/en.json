@@ -1,0 +1,162 @@
+{
+  "global": {
+    "project_title": "",
+    "project_subtitle": "Administrator",
+    "admin": "Administrator",
+    "welcome": "Welcome to Admin panel"
+  },
+  "sidebar": {
+    "regions": "Regions",
+    "sportsmen": "Sportsmen",
+    "infographics": "Infographics",
+    "faq": "F.A.Q",
+    "dictionaries": "Dictionaries",
+    "constructions": "Constructions",
+    "categories": "Categories",
+    "feedback": "Feedback",
+    "sport_club": "Sport CLub",
+    "facilities": "Facilities",
+    "dictionary": "Dictionary",
+    "parental_faq": "Parental FAQ",
+    "parental_info": "Parental Info",
+    "users": "Users",
+    "about_us": "About Us",
+    "banner": "Banner",
+    "tips": "Tips",
+    "games": "Games",
+    "videoblog": "Video Blog",
+    "applications": "Applications"
+  },
+  "categories": {
+    "sport": "Sport",
+    "videoblog": "Videoblog",
+    "facility": "Facility",
+    "parental_faq": "Parental FAQ",
+    "parental_info": "Parental Info",
+    "auth_users": "Authenticated users",
+    "anon_users": "Anonymous users"
+  },
+  "status": {
+    "completed": "Completed",
+    "active": "Active",
+    "pending": "Pending",
+    "approved": "Approved",
+    "denied": "Denied"
+  },
+  "action": {
+    "action": "Action",
+    "actions": "Actions",
+    "add": "Add",
+    "create": "Create",
+    "new": "New",
+    "save": "Save",
+    "delete": "Delete",
+    "mark": "Mark as completed"
+  },
+  "question": {
+    "deleting": "Are you sure you want to delete the item?"
+  },
+  "notification": {
+    "success": {
+      "general": "Success",
+      "create": "Item created successfully",
+      "update": "Item updated successfully",
+      "delete": "Item deleted successfully"
+    },
+    "error": {
+      "general": "An error has occurred"
+    }
+  },
+  "form": {
+    "title": "Title",
+    "description": "Description",
+    "visibility": "Visibility",
+    "active": "Active",
+    "date": "Date",
+    "image": "Image",
+    "images": "Images",
+    "thumbnail": "Thumbnail",
+    "icon": "Icon",
+    "full_name": "Full name",
+    "phone_number": "Phone number",
+    "created_date": "Created date",
+    "status": "Status",
+    "video": "Video",
+    "profile_picture": "Profile Picture",
+    "text": "Text",
+    "additional_images": "Additional Images",
+    "category": "Category",
+    "age_limit": "Age limit",
+    "club_hour": "Club hour",
+    "capacity": "Capacity",
+    "region": "Region",
+    "word": "Word",
+    "question": "Question",
+    "answer": "Answer",
+    "is_staff": "is staff",
+    "gender": "Gender",
+    "date_of_birth": "Date of birth",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "id": "id",
+    "address": "Address",
+    "taxi_route": "Taxi Route",
+    "closest_subway_station": "Closest subway station",
+    "buses": "Buses",
+    "bus_station": "Bus station",
+    "phone": "Phone",
+    "days": "Days",
+    "working_hours_from": "Working hours from",
+    "working_hours_to": "Working hours to",
+    "working_days": "Working days",
+    "break_hours_from": "Break hours from",
+    "break_hours_to": "Break hours to",
+    "email": "Email",
+    "body": "Text",
+    "expiration_time": "Expiration Time",
+    "level": "Level",
+    "point": "Point",
+    "is_right_answer": "Is right answer",
+    "game": "Game",
+    "add_answer": "Add Answer",
+    "video_link": "Video Link",
+    "user": "User",
+    "date_joined": "Date Joined",
+    "club_hour_from": "Club hour from",
+    "club_hour_to": "Club hour to",
+    "child_age_from": "Child age from",
+    "child_age_to":  "Child age to",
+    "sport_club_title": "Sport club title",
+    "facility_title": "Facility title",
+    "confirmed": "Confirmed"
+  },
+  "validation": {
+    "required": "required",
+    "number": "number required",
+    "email": "email required",
+    "invalid_age": "invalid age"
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "game": {
+   "type": {
+    "yes_no": "Yes No",
+    "figure_out": "Figure out",
+    "sport_test": "Sport Test"
+   }
+  },
+  "day": {
+    "mon": "mon",
+    "tue": "tue",
+    "wed": "wed",
+    "thu": "thu",
+    "fri": "fri",
+    "sat": "sat",
+    "sun": "sun"
+  },
+  "auth": {
+    "logout": "Log out"
+  }
+}
